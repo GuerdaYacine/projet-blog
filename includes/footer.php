@@ -1,3 +1,3 @@
 <footer>
-    <p>2011 / 2021 © Tous droits réservés</p>
+    <p>2025 © Tous droits réservés</p>
 </footer>
